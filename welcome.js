@@ -1,1 +1,4 @@
-//comment appliquer plusieurs conditions sans utiliser de fonction ? je n ai pas trouvé d exemple dans le cours 
+let firstname ="Bob"
+let gender ="male"
+
+console.log(`Bonjour ${firstname}, Vous etes entré${gender === "female" ? "e" : "" } sur le chan`)
