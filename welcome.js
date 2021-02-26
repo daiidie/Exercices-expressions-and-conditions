@@ -1,0 +1,1 @@
+//comment appliquer plusieurs conditions sans utiliser de fonction ? je n ai pas trouvé d exemple dans le cours 
